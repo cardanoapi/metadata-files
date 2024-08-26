@@ -48,10 +48,10 @@
     "authors": [],
     "hashAlgorithm": "blake2b-256",
     "body": {
-        "abstract": "The color is yellow today",
-        "motivation": "Because it is sunny",
-        "rationale": "I like sunny weather",
+        "abstract": "Test the effect of long content.",
+        "motivation": "Long content shouldn't affect.",
+        "rationale": "Long content.",
         "references": [],
-        "title": "Yellow Color"
+        "title": "Large content test"
     }
 }
